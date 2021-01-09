@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WiseBill Test Suite" parallel="methods" thread-count="2"> 
+	<!-- <test name="testsuite1">
+		<classes>
+			<class name="com.app.Add_Customer_And_Verify_Details"></class>
+		</classes>
+		hudson.AbortException: Test reports were found but none of them are new. Did leafNodes run?
+	</test>
+	
+	<test name="testsuite2">
+		<classes>
+			<class name="com.app.Guest_Add_Booking"></class>
+		</classes>
+	</test> -->
+	<!-- <test name="testsuite3">
+		<classes>
+			<class name="com.app.Verify_Customer_Duplicate_Entry"></class>
+		</classes>
+	</test>
+	<test name="testsuite4">
+		<classes>
+			<class name="com.app.Verify_Duplicate_Entry_For_Guest"></class>
+		</classes>
+	</test>
+	<test name="testsuite5">
+		<classes>
+			<class name="com.app.Verify_Duplicate_Entry_Of_Guest_With_Mobile"></class>
+		</classes>
+	</test> -->
+	<!-- <test name="testsuite6">
+		<classes>
+			<class name="com.app.Verify_Invalid_Sign_In"></class>
+		</classes>
+	</test> -->
+	
+	<test name="testsuite6">
+		<classes>
+			<class name="com.app.GetData.Demo_1"></class>
+		</classes>
+	</test>
+	<test name="testsuite7">
+		<classes>
+			<class name="com.app.GetData.Demo_2"></class>
+		</classes>
+	</test>
+	<!--<test name="testsuite8">
+		<classes>
+			<class name="com.app.Guest_Add_Booking_With_Card"></class>
+		</classes>
+	</test> -->
+	
+
+</suite>

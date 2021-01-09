@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1" parallel="tests" thread-count="2">
+<listeners>
+	<listener class-name="com.app.analyzer.MyTransform"></listener>
+</listeners>
+
+<test name="classic">
+	<classes>
+		<class name="com.app.test.LoginTest_1"></class>
+	</classes>
+</test>
+
+<test name="classic1">
+	<classes>
+		<class name="com.app.test.LoginTest_2"></class>
+	</classes>
+</test>
+</suite>

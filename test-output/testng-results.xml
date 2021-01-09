@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2021-01-08T19:07:57Z" finished-at="2021-01-08T19:07:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2021-01-08T19:07:57Z" finished-at="2021-01-08T19:07:57Z">
+      <class name="com.app.pages.Test_NG_Example">
+        <test-method status="PASS" signature="aharjaicomputer()[pri:0, instance:com.app.pages.Test_NG_Example@29774679]" name="aharjaicomputer" duration-ms="14" started-at="2021-01-09T00:37:57Z" finished-at="2021-01-09T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aharjaicomputer -->
+        <test-method status="PASS" signature="harjai()[pri:0, instance:com.app.pages.Test_NG_Example@29774679]" name="harjai" duration-ms="2" started-at="2021-01-09T00:37:57Z" finished-at="2021-01-09T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- harjai -->
+        <test-method status="PASS" signature="print()[pri:0, instance:com.app.pages.Test_NG_Example@29774679]" name="print" duration-ms="0" started-at="2021-01-09T00:37:57Z" finished-at="2021-01-09T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+        <test-method status="PASS" signature="amper()[pri:2, instance:com.app.pages.Test_NG_Example@29774679]" name="amper" duration-ms="1" started-at="2021-01-09T00:37:57Z" finished-at="2021-01-09T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amper -->
+        <test-method status="PASS" signature="show()[pri:2, instance:com.app.pages.Test_NG_Example@29774679]" name="show" duration-ms="0" started-at="2021-01-09T00:37:57Z" finished-at="2021-01-09T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- com.app.pages.Test_NG_Example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
