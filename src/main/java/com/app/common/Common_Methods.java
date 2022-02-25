@@ -627,4 +627,5 @@ public class Common_Methods extends TestBase{
 			  
 		}
 		//basic concept,programs,spring boot interview qustion,diff spring spring boot,jpa,sql
+	//Hope every one is good
 }
