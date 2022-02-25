@@ -11,6 +11,7 @@ import java.io.Serializable;
 class address implements Serializable{
 	String city;
 	String state;
+	//Addes new line
 	
 	public address(String city,String state) {
 		this.city=city;
